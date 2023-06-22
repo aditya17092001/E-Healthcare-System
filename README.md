@@ -53,6 +53,6 @@ We would like to express our gratitude to the open-source community for their va
 
 ## Contact
 
-For any inquiries or further information, please contact [adityaudata.com].
+For any inquiries or further information, please contact [adityaudata@gmail.com].
 
 Thank you for your interest in the E-Healthcare System project! We hope it proves to be a valuable tool in the medical field.
